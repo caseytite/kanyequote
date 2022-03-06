@@ -1,0 +1,72 @@
+.App{
+  display: flex;
+  justify-content: center;
+  /* padding-top: 25%; */
+  /* padding-bottom: 25%; */
+  height: 100vh;
+  background-color: darkslategray;
+}
+
+.greeting {
+  color: whitesmoke;
+  font-family: 'Roboto Mono', monospace;
+  align-self: center;
+}
+
+ /* .main-div{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}  */
+
+.main-div{
+
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  background-color: #00000066;
+  border: 3px solid black;
+  border-radius: 2em;
+  padding: 2em;
+  width: 35em;
+  height: 25em;
+  margin-top: 10em;
+
+}
+
+.main-div:hover{
+  box-shadow: 2px 2px 4px #000000;
+}
+
+.input-group{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+input{
+  margin-top: .3em;
+  border-radius: .5em;
+  border: none;
+  outline: none;
+}
+
+.btn-dark{
+  margin-top: 1em;
+  border-radius: .5em;
+  font-family: 'Roboto Mono', monospace;
+}
+.btn-dark:hover{
+  box-shadow:  4px 4px 4px #000000;
+}
+.btn-dark:focus{
+  display: none;
+}
+
+.kanye{
+  font-family: 'Roboto Mono', monospace;
+  max-width: 50vw;
+  text-align: center;
+  color: whitesmoke;
+ 
+}
