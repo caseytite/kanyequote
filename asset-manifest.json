@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kanyequote/static/css/main.03b8a966.css",
+    "main.js": "/kanyequote/static/js/main.77fd8769.js",
+    "static/js/787.ce83f7ce.chunk.js": "/kanyequote/static/js/787.ce83f7ce.chunk.js",
+    "index.html": "/kanyequote/index.html",
+    "main.03b8a966.css.map": "/kanyequote/static/css/main.03b8a966.css.map",
+    "main.77fd8769.js.map": "/kanyequote/static/js/main.77fd8769.js.map",
+    "787.ce83f7ce.chunk.js.map": "/kanyequote/static/js/787.ce83f7ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03b8a966.css",
+    "static/js/main.77fd8769.js"
+  ]
+}
